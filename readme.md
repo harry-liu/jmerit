@@ -1,1 +1,2 @@
-This is a website for JMERIT
+This is a website for JMERIT.
+Use wordpress, JQUERY.
